@@ -5,9 +5,9 @@ function App() {
 
   return (
     <>
-      <div className="bg-[#0d192b] w-[100vw] h-[100vh] flex justify-center items-center">
+      <main className="bg-[#0d192b] w-[100vw] h-[100vh] flex justify-center items-center">
         <Card />
-      </div>
+      </main>
     </>
   )
 }
