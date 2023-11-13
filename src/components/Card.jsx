@@ -29,7 +29,7 @@ const Card = () => {
                     <p className='text-[#8BACD9] font-Outfit font-light text-sm '>Our Equilibrium collection promotes balance and calm.</p>
                 </div>
                 {/* price */}
-                <div className=' w-[100%] h-[20%] flex justify-between border-b border-[#8BACD9]'>
+                <div className=' w-[100%] h-[20%] flex justify-between border-b border-[#8bacd97e]'>
                     <div className='w-[50%] h-[100%] flex gap-2 items-center'>
                         <div>
                             <img src={ethereum} alt="ethereum" />
